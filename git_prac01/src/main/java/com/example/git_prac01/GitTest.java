@@ -6,4 +6,5 @@ public class GitTest {
     private String second = "2번째 내용";
     private String word3 = "3번째 내용";
     private String word4 = "네번째 내용";
+    private String rebase = "rebase테스트";
 }
