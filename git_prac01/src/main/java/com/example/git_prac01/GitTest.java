@@ -4,4 +4,5 @@ public class GitTest {
 
     private String word = "깃테스트용";
     private String second = "두번째 내용";
+    private String word3 = "세번째 내용";
 }
